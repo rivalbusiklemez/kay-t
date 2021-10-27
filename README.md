@@ -1,1 +1,1 @@
-# kay-t
+# rival kayıt botu
